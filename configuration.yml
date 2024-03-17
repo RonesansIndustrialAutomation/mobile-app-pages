@@ -1,0 +1,8 @@
+urls:
+  base_url: https://ronesansindustrialautomation.github.io/mobile-app-pages  # https://www.ria.com.tr/
+  contact: /contact                                         # /contact
+  about-us: /about-us                                       # /about-us
+  privacy-policy: /privacy-policy                           # /privacy-policy
+  terms-of-service: /terms-of-service                       # /terms-of-service
+  faq: /faq                                                 # /faq
+  gdpr: /gdpr                                               # /gdpr
